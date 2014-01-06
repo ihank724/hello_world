@@ -1,0 +1,20 @@
+nav {
+    color:red;
+}
+
+code {
+    color:#fa4c4c;
+}
+
+abbr {
+    border-bottom:1px dotted #000;
+}
+
+p {
+    font-family:fantasy
+}
+
+h1 {
+    font-family:serif;
+    font-size:150%;
+}
